@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	preserveAspectRatio="xMidYMid meet"
+	viewBox="0 0 640 640"
+	width="640"
+	height="640"
+>
+	<defs>
+		<path
+			d="M462 322.17C462 402.75 396.58 468.17 316 468.17C235.42 468.17 170 402.75 170 322.17C170 241.59 235.42 176.17 316 176.17C396.58 176.17 462 241.59 462 322.17Z"
+			id="bEOeucrgQ"
+		></path>
+		<path
+			d="M422 320C422 376.3 376.3 422 320 422C263.7 422 218 376.3 218 320C218 263.7 263.7 218 320 218C376.3 218 422 263.7 422 320Z"
+			id="f1tp0qLYVC"
+		></path>
+		<mask id="maskbrIl3FQmj" x="178" y="178" width="284" height="284" maskUnits="userSpaceOnUse">
+			<rect x="178" y="178" width="284" height="284" fill="white"></rect>
+			<use xlink:href="#f1tp0qLYVC" opacity="1" fill="black"></use>
+		</mask>
+		<path
+			d="M375.14 189.22L338.15 249.91L299.22 250.1L264.17 187.82C268.51 186.38 271.22 185.47 272.31 185.11C301.74 175.3 333.56 175.32 362.98 185.16C364.6 185.7 368.65 187.05 375.14 189.22Z"
+			id="f24vHSnpLh"
+		></path>
+		<path
+			d="M228.48 208.82L254.26 250.52L191.4 250.61C193.42 246.71 194.69 244.28 195.19 243.3C202.71 228.82 214.28 216.84 228.48 208.82C228.48 208.82 228.48 208.82 228.48 208.82Z"
+			id="c27fW5Nw3"
+		></path>
+		<path
+			d="M175.75 299.16C175.82 299.64 176.23 300 176.72 300C181.96 300 195.08 300 216.07 300L187.36 255.56C185.16 259.3 183.79 261.64 183.24 262.58C176.61 273.86 174.02 287.05 175.87 300C175.87 300 175.2 295.33 175.75 299.16Z"
+			id="d30ZLo3f37"
+		></path>
+		<path
+			d="M454.98 300L414.78 300L443.5 252.59C445.96 257.05 447.49 259.85 448.11 260.96C454.43 272.46 456.91 285.68 455.16 298.69C455.14 298.86 455.08 299.3 454.98 300Z"
+			id="b2tZ1vjuy"
+		></path>
+		<path d="M320 466.91L298.34 464.9L274.26 458.53L271.05 452.92L294.26 417.96L320 466.91Z" id="b3kkBR3lK"></path>
+		<path d="M320 467.12L341.66 465.1L365.74 458.74L368.95 453.13L345.74 418.17L320 467.12Z" id="a5nIxWxuCo"></path>
+		<path d="M250 285.09L315.04 393.48L315.04 434.04L217.14 265.51L250 285.09Z" id="a70S09wGL"></path>
+		<path d="M390.79 285.31L325.74 393.71L325.74 434.27L423.65 265.73L390.79 285.31Z" id="c6bLZaiBek"></path>
+		<path d="M383.83 277.87L257.42 278.43L222.55 257.72L417.45 259.62L383.83 277.87Z" id="b1s0NctNpX"></path>
+		<path
+			d="M284.97 290L284.36 293.7L356.14 294.31L353.07 290L373.93 290L365.34 307.2L360 303.51L324.24 366.09L330 366.7L320 384.5L310 366.09L315.65 366.09L277.61 303.51L273.32 310L264.12 290L284.97 290Z"
+			id="a1jAZ12Gg1"
+		></path>
+		<path
+			d="M172.24 340.73L246.81 340L267.76 374.14L230.21 439.13C226.53 436.05 224.23 434.13 223.31 433.36C198.84 412.93 181.87 384.93 175.08 353.78C174.7 352.04 173.75 347.69 172.24 340.73Z"
+			id="e7J0pqmBD"
+		></path>
+		<path
+			d="M404.5 438.04L370 375.9L389.06 341.96L460.53 342.24C459.64 346.73 459.09 349.53 458.87 350.66C452.86 381.09 437.13 408.75 414.04 429.48C412.77 430.62 409.59 433.47 404.5 438.04Z"
+			id="aMc5pO7Z"
+		></path>
+		<path
+			d="M402.91 206.23L377.14 247.93L440 248.03C437.97 244.13 436.71 241.69 436.2 240.71C428.68 226.23 417.12 214.25 402.91 206.23C402.91 206.23 402.91 206.23 402.91 206.23Z"
+			id="c6PWLduaHb"
+		></path>
+		<path
+			d="M335.57 320C335.57 328.6 328.6 335.57 320 335.57C311.4 335.57 304.43 328.6 304.43 320C304.43 311.4 311.4 304.43 320 304.43C328.6 304.43 335.57 311.4 335.57 320Z"
+			id="bdq6Q6CZX"
+		></path>
+		<clipPath id="clipd3H7KPcP1G"><use xlink:href="#bdq6Q6CZX" opacity="1"></use></clipPath>
+	</defs>
+	<g>
+		<g>
+			<g><use xlink:href="#bEOeucrgQ" opacity="1" fill="#342a80" fill-opacity="1"></use></g>
+			<g>
+				<use xlink:href="#f1tp0qLYVC" opacity="1" fill="#eeeec7" fill-opacity="0.09"></use>
+				<g mask="url(#maskbrIl3FQmj)">
+					<use
+						xlink:href="#f1tp0qLYVC"
+						opacity="1"
+						fill-opacity="0"
+						stroke="#11059b"
+						stroke-width="40"
+						stroke-opacity="1"
+					></use>
+				</g>
+			</g>
+			<g>
+				<use xlink:href="#f24vHSnpLh" opacity="1" fill="#30b9d5" fill-opacity="0.99"></use>
+				<g>
+					<use
+						xlink:href="#f24vHSnpLh"
+						opacity="1"
+						fill-opacity="0"
+						stroke="#000000"
+						stroke-width="1"
+						stroke-opacity="1"
+					></use>
+				</g>
+			</g>
+			<g>
+				<use xlink:href="#c27fW5Nw3" opacity="1" fill="#30b7d4" fill-opacity="1"></use>
+				<g>
+					<use
+						xlink:href="#c27fW5Nw3"
+						opacity="1"
+						fill-opacity="0"
+						stroke="#000000"
+						stroke-width="1"
+						stroke-opacity="1"
+					></use>
+				</g>
+			</g>
+			<g>
+				<use xlink:href="#d30ZLo3f37" opacity="1" fill="#30b7d4" fill-opacity="1"></use>
+				<g>
+					<use
+						xlink:href="#d30ZLo3f37"
+						opacity="1"
+						fill-opacity="0"
+						stroke="#000000"
+						stroke-width="1"
+						stroke-opacity="1"
+					></use>
+				</g>
+			</g>
+			<g>
+				<use xlink:href="#b2tZ1vjuy" opacity="1" fill="#30b7d4" fill-opacity="1"></use>
+				<g>
+					<use
+						xlink:href="#b2tZ1vjuy"
+						opacity="1"
+						fill-opacity="0"
+						stroke="#000000"
+						stroke-width="1"
+						stroke-opacity="1"
+					></use>
+				</g>
+			</g>
+			<g>
+				<use xlink:href="#b3kkBR3lK" opacity="1" fill="#30b7d4" fill-opacity="1"></use>
+				<g>
+					<use
+						xlink:href="#b3kkBR3lK"
+						opacity="1"
+						fill-opacity="0"
+						stroke="#000000"
+						stroke-width="1"
+						stroke-opacity="1"
+					></use>
+				</g>
+			</g>
+			<g>
+				<use xlink:href="#a5nIxWxuCo" opacity="1" fill="#30b7d4" fill-opacity="1"></use>
+				<g>
+					<use
+						xlink:href="#a5nIxWxuCo"
+						opacity="1"
+						fill-opacity="0"
+						stroke="#000000"
+						stroke-width="1"
+						stroke-opacity="1"
+					></use>
+				</g>
+			</g>
+			<g>
+				<use xlink:href="#a70S09wGL" opacity="1" fill="#30b7d4" fill-opacity="1"></use>
+				<g>
+					<use
+						xlink:href="#a70S09wGL"
+						opacity="1"
+						fill-opacity="0"
+						stroke="#000000"
+						stroke-width="1"
+						stroke-opacity="1"
+					></use>
+				</g>
+			</g>
+			<g>
+				<use xlink:href="#c6bLZaiBek" opacity="1" fill="#30b7d4" fill-opacity="1"></use>
+				<g>
+					<use
+						xlink:href="#c6bLZaiBek"
+						opacity="1"
+						fill-opacity="0"
+						stroke="#000000"
+						stroke-width="1"
+						stroke-opacity="1"
+					></use>
+				</g>
+			</g>
+			<g>
+				<use xlink:href="#b1s0NctNpX" opacity="1" fill="#30b7d4" fill-opacity="1"></use>
+				<g>
+					<use
+						xlink:href="#b1s0NctNpX"
+						opacity="1"
+						fill-opacity="0"
+						stroke="#000000"
+						stroke-width="1"
+						stroke-opacity="1"
+					></use>
+				</g>
+			</g>
+			<g>
+				<use xlink:href="#a1jAZ12Gg1" opacity="1" fill="#30b7d4" fill-opacity="1"></use>
+				<g>
+					<use
+						xlink:href="#a1jAZ12Gg1"
+						opacity="1"
+						fill-opacity="0"
+						stroke="#5d0808"
+						stroke-width="1"
+						stroke-opacity="1"
+					></use>
+				</g>
+			</g>
+			<g>
+				<use xlink:href="#e7J0pqmBD" opacity="1" fill="#30b7d4" fill-opacity="1"></use>
+				<g>
+					<use
+						xlink:href="#e7J0pqmBD"
+						opacity="1"
+						fill-opacity="0"
+						stroke="#000000"
+						stroke-width="1"
+						stroke-opacity="1"
+					></use>
+				</g>
+			</g>
+			<g>
+				<use xlink:href="#aMc5pO7Z" opacity="1" fill="#30b7d4" fill-opacity="1"></use>
+				<g>
+					<use
+						xlink:href="#aMc5pO7Z"
+						opacity="1"
+						fill-opacity="0"
+						stroke="#000000"
+						stroke-width="1"
+						stroke-opacity="1"
+					></use>
+				</g>
+			</g>
+			<g>
+				<use xlink:href="#c6PWLduaHb" opacity="1" fill="#30b7d4" fill-opacity="1"></use>
+				<g>
+					<use
+						xlink:href="#c6PWLduaHb"
+						opacity="1"
+						fill-opacity="0"
+						stroke="#000000"
+						stroke-width="1"
+						stroke-opacity="1"
+					></use>
+				</g>
+			</g>
+			<g>
+				<g>
+					<filter
+						id="shadow14754774"
+						x="149.43"
+						y="149.43"
+						width="341.15"
+						height="341.15"
+						filterUnits="userSpaceOnUse"
+						primitiveUnits="userSpaceOnUse"
+					>
+						<feFlood></feFlood>
+						<feComposite in2="SourceAlpha" operator="in"></feComposite>
+						<feGaussianBlur stdDeviation="7.07"></feGaussianBlur>
+						<feOffset dx="0" dy="0" result="afterOffset"></feOffset>
+						<feFlood flood-color="#e4dcdc" flood-opacity="0.5"></feFlood>
+						<feComposite in2="afterOffset" operator="in"></feComposite>
+						<feMorphology operator="dilate" radius="50"></feMorphology>
+						<feComposite in2="SourceAlpha" operator="out"></feComposite>
+					</filter>
+					<path
+						d="M335.57 320C335.57 328.6 328.6 335.57 320 335.57C311.4 335.57 304.43 328.6 304.43 320C304.43 311.4 311.4 304.43 320 304.43C328.6 304.43 335.57 311.4 335.57 320Z"
+						id="dYOoqhsoQ"
+						fill="white"
+						fill-opacity="1"
+						filter="url(#shadow14754774)"
+					></path>
+				</g>
+				<use xlink:href="#bdq6Q6CZX" opacity="1" fill="#f1f5f6" fill-opacity="1"></use>
+				<g clip-path="url(#clipd3H7KPcP1G)">
+					<use
+						xlink:href="#bdq6Q6CZX"
+						opacity="1"
+						fill-opacity="0"
+						stroke="#080000"
+						stroke-width="10"
+						stroke-opacity="1"
+					></use>
+				</g>
+				<g>
+					<filter
+						id="shadow5869827"
+						x="149.43"
+						y="149.43"
+						width="341.15"
+						height="341.15"
+						filterUnits="userSpaceOnUse"
+						primitiveUnits="userSpaceOnUse"
+					>
+						<feFlood></feFlood>
+						<feComposite in2="SourceAlpha" operator="out"></feComposite>
+						<feGaussianBlur stdDeviation="7.07"></feGaussianBlur>
+						<feOffset dx="0" dy="0" result="afterOffset"></feOffset>
+						<feFlood flood-color="#fcfbfb" flood-opacity="0.8"></feFlood>
+						<feComposite in2="afterOffset" operator="in"></feComposite>
+						<feMorphology operator="dilate" radius="50"></feMorphology>
+						<feComposite in2="SourceAlpha" operator="in"></feComposite>
+					</filter>
+					<path
+						d="M335.57 320C335.57 328.6 328.6 335.57 320 335.57C311.4 335.57 304.43 328.6 304.43 320C304.43 311.4 311.4 304.43 320 304.43C328.6 304.43 335.57 311.4 335.57 320Z"
+						id="d2SuTdUgiB"
+						fill="white"
+						fill-opacity="1"
+						filter="url(#shadow5869827)"
+					></path>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
