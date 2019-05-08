@@ -58,7 +58,7 @@ const ChestPiece = props => (
 				<use xlinkHref="#prefix__b" />
 			</clipPath>
 		</defs>
-		<use xlinkHref="#prefix__c" fill="white" />
+		<use xlinkHref="#prefix__c" fill="#342980" />
 		<use xlinkHref="#prefix__a" fill="#eeeec7" fillOpacity={0.09} />
 		<g mask="url(#prefix__d)">
 			<use xlinkHref="#prefix__a" fillOpacity={0} stroke="#11059b" strokeWidth={40} />
