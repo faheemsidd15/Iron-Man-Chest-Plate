@@ -4,10 +4,14 @@ import "./App.css"
 import styled from "styled-components"
 import ChestPiece from "./components/ChestPiece"
 
-const SvgContainer = styled.div`
-	height: 500px;
-	width: 500px;
-`
+// const SvgContainer = styled.div`
+// 	height: 500px;
+// 	width: 500px;
+
+// 	.plate #prefix__c {
+// 		fill: white;
+// 	}
+// `
 
 function App() {
 	return (
@@ -18,7 +22,7 @@ function App() {
 				<hr style={{ width: "100%" }} />
 				<span style={{ color: "white" }}>Converted Svg as a component</span>
 
-				<ChestPiece />
+				<ChestPiece className="plate" />
 			</header>
 		</div>
 	)
