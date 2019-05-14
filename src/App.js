@@ -1,17 +1,7 @@
 import React from "react"
 import logo from "./logo.svg"
 import "./App.css"
-import styled from "styled-components"
 import ChestPiece from "./components/ChestPiece"
-
-// const SvgContainer = styled.div`
-// 	height: 500px;
-// 	width: 500px;
-
-// 	.plate #prefix__c {
-// 		fill: white;
-// 	}
-// `
 
 function App() {
 	return (
@@ -22,7 +12,7 @@ function App() {
 				<hr style={{ width: "100%" }} />
 				<span style={{ color: "white" }}>Converted Svg as a component</span>
 
-				<ChestPiece className="plate" />
+				<ChestPiece className="plate" alt="chestpiece" />
 			</header>
 		</div>
 	)

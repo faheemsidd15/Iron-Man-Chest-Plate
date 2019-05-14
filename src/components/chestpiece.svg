@@ -1,160 +1,15 @@
-import React from "react"
-import styled, { keyframes } from "styled-components"
-// import "../components/ChestPiece.css"
-
-const Spin = keyframes`
-
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-`
-const Pulse = keyframes`
-	0% {
-    fill: #30b9d5;
-  }
-  20% {
-	fill: white;
-
-	
-  }
-  40%{
-	  fill: white;
-
-  }
-
-  60% {
-	  fill: white;
-
-
-  }
-  80% {
-	fill: #30b9d5;
-  }
-
-  100% {
-    fill: #30b9d5;
-  }
-`
-
-const Orbit = keyframes`
-{
-  to {
-	stroke-dashoffset: 300px;
-  }
-}
-`
-const NegativeOrbit = keyframes`
-{
-  to {
-    stroke-dashoffset: -100px;
-  }
-}
-`
-
-const SvgContainer = styled.div`
-	#prefix__b {
-		stroke: white;
-		stroke-width: 1px;
-		fill: black;
-		stroke-dasharray: 25px 10px;
-		animation: ${NegativeOrbit} 1s infinite linear;
-	}
-	#prefix__d {
-		animation: ${Pulse} 5s infinite ease-in;
-	}
-
-	#outer_circle {
-		fill: transparent;
-	}
-
-	#top_main_piece {
-		fill: #30b9d5;
-		animation: ${Pulse} 5s infinite ease-in;
-	}
-	#top_left_piece {
-		fill: #30b7d4;
-		animation: ${Pulse} 5s infinite ease-in;
-	}
-
-	#top_right_piece {
-		fill: #30b7d4;
-		animation: ${Pulse} 5s infinite ease-in;
-	}
-
-	#left_middle_piece {
-		fill: #30b7d4;
-		animation: ${Pulse} 5s infinite ease-in;
-	}
-	#right_middle_piece {
-		fill: #30b7d4;
-		animation: ${Pulse} 5s infinite ease-in;
-	}
-	#left_main_piece {
-		fill: #30b7d4;
-		animation: ${Pulse} 5s infinite ease-in;
-	}
-
-	#right_main_piece {
-		fill: #30b7d4;
-		animation: ${Pulse} 5s infinite ease-in;
-	}
-
-	#left_bottom_piece {
-		fill: #30b7d4;
-		animation: ${Pulse} 5s infinite ease-in;
-	}
-
-	#right_bottom_piece {
-		fill: #30b7d4;
-		animation: ${Pulse} 5s infinite ease-in;
-	}
-
-	#right_center_piece {
-		fill: #30b7d4;
-		animation: ${Pulse} 5s infinite ease-in;
-	}
-
-	#left_center_piece {
-		fill: #30b7d4;
-		animation: ${Pulse} 5s infinite ease-in;
-	}
-
-	#top_center_piece {
-		fill: #30b7d4;
-		animation: ${Pulse} 5s infinite ease-in;
-	}
-
-	#center_piece {
-		fill: #30b7d4;
-		stroke: white;
-		stroke-width: 0.5px;
-	}
-
-	#inner_ring {
-		/* stroke: #11059b; */
-		stroke: white;
-		stroke-width: 10px;
-		fill: black;
-		stroke-dasharray: 35px 15px;
-		animation: ${Orbit} 1s infinite linear;
-	}
-`
-
-const ChestPiece = props => (
-	//replaced all the xlinkHref with href
-	//replaced all prefix__a with inner_ring
-	<SvgContainer>
-		<svg
-			width={640}
-			height={640}
-			{...props}
-			xmlns="http://www.w3.org/2000/svg"
-			xmlnsXlink="http://www.w3.org/1999/xlink"
-		>
-			<defs>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+	version="1.1"
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	preserveAspectRatio="xMidYMid meet"
+	viewBox="0 0 640 640"
+	width="640"
+	height="640"
+>
+	<defs>
 				<path
 					d="M462 322.17c0 80.58-65.42 146-146 146s-146-65.42-146-146 65.42-146 146-146 146 65.42 146 146z"
 					id="outer_circle"
@@ -309,8 +164,4 @@ const ChestPiece = props => (
 					/>
 				</g>
 			</g>
-		</svg>
-	</SvgContainer>
-)
-
-export default ChestPiece
+</svg>
